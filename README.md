@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Haraprasad Pradhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/search?q=4k+animated+coding+gif+for+github&sca_esv=ada41f51c7a15743&udm=2&biw=1280&bih=551&sxsrf=ADLYWIIE2lkGrRpsWRESE21Wa3Y2JwjZAg%3A1730741120146&ei=gAMpZ_XPCNWcseMP7q6O2A8&ved=0ahUKEwj1j6iNmcOJAxVVTmwGHW6XA_sQ4dUDCBA&uact=5&oq=4k+animated+coding+gif+for+github&gs_lp=EgNpbWciITRrIGFuaW1hdGVkIGNvZGluZyBnaWYgZm9yIGdpdGh1YkiWXlDWBlj5XHALeACQAQCYAdIBoAGaGKoBBjAuMjEuMbgBA8gBAPgBAZgCE6AC-gnCAgoQABiABBhDGIoFwgIGEAAYBxgewgIFEAAYgASYAwCIBgGSBwQxMC45oAekDA&sclient=img#imgrc=rb9BZF6fpngVPM&imgdii=ROBV3o0qLOqx_M">
 
